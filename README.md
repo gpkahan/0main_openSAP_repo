@@ -1,2 +1,2 @@
 # 0main_openSAP_repo
-Main repository  on Got for SAP Web IDE
+Main repository  on Git for SAP Web IDE
